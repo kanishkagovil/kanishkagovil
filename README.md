@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kanishkagovil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kanishkagovil i m aiml engineering student.
+-💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning Html ,css , JavaScript.
+- 📬 How to reach me:
+ govilkanishka@gmail.com
 
 <!---
 kanishkagovil/kanishkagovil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
