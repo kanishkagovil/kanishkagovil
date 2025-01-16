@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kanishkagovil i m aiml engineering student.
-- 
 -💬 Ask me about anything, I am happy to help
 - 🌱 I’m currently learning Html ,css , JavaScript.
 - 📬 How to reach me:
