@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kanishkagovil</h1>
 <h3 align="center">I m AIML student from Niet gr Noida</h3>
 
-- 🌱 I’m currently learning **Html, css , python , javascript**
+- 🌱 I’m currently learning **Html, CSS , Python , Javascript**
 
 - I have created also project [Temprature conventer](https://github.com/kanishkagovil/temperature-converter)
 
-- 🤝 I’m looking for help with **Web application development and html css**
+- 🤝 I’m looking for help with **Web application development and html CSS**
 
 - 👨‍💻 All of my projects are available at [GitHub and linkdin profiles](GitHub and linkdin profiles)
 
