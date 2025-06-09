@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishkagovil</h1>
 <h3 align="center">I m AIML student from Niet gr Noida</h3>
 
-- 🌱 I’m currently learning **Html, CSS , Python , Javascript**
+- 🌱 I’m currently learning **Html, CSS , Python , Javascript , React.js , Bootstrap, Mysql ,Django, jquery**
 
 - I have created also project [Temprature conventer](https://github.com/kanishkagovil/temperature-converter)
 
