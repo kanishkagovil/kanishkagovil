@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html, CSS , Python , Javascript , React.js , Bootstrap, Mysql ,Django, jquery**
 
-- I have created also project [Clock alarm/https://github.com/kanishkagovil/JS_PROJECT1/blob/main/PROJECT/index%20.html) , [Netflixpage/https://github.com/kanishkagovil/neflix)
+- I have created also project [Clock alarm/https://github.com/kanishkagovil/JS_PROJECT1/blob/main/PROJECT/index%20.html) , [Netflixpage/https://github.com/kanishkagovil/neflix),[Temperature conventer/https://github.com/kanishkagovil/temperature-converter),
 
 - 🤝 I’m looking for help with **Web application development and html CSS**
 
