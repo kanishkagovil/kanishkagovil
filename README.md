@@ -5,7 +5,7 @@
 
 - I have created also project [Clock alarm/https://github.com/kanishkagovil/JS_PROJECT1/blob/main/PROJECT/index%20.html) , [Netflixpage/https://github.com/kanishkagovil/neflix), [Temperatureconventer/https://github.com/kanishkagovil/temperature-converter), [Backtracking/https://github.com/kanishkagovil/HTML--PROJECT/blob/main/index.html)
 
-- 🤝 I’m looking for help with **Web application development and html CSS**
+- 🤝 I’m looking for help with **Web application development and Frotended developer , ui/ux designer**
 
 - 👨‍💻 All of my projects are available at [GitHub and linkdin profiles](GitHub and linkdin profiles)
 
